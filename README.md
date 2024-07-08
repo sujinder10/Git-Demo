@@ -1,2 +1,2 @@
 # Git-Demo
-This demo for delta student
+This demo for delta students.
